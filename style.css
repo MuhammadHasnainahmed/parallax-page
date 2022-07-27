@@ -138,6 +138,81 @@ body {
       font-family: 'Raleway', sans-serif;
       line-height: 2.5;
   }
+
+
+
+  @media (max-width:1200px){
+    .section-1{
+      padding-top: 25%;
+    }
+
+    .section-1 h1{
+      width: 40%;
+
+    }
+
+    .section-1 p{
+       height: auto;
+      
+    }
+
+    .section-2{
+      padding-top: 25%;
+    }
+
+    .section-2 h1{
+      width: 40%;
+
+    }
+    .section-2 p{
+       height: auto;
+      
+    }
+
+
+
+
+    .section-3{
+      padding-top: 25%;
+    }
+
+    .section-3 h1{
+      width: 40%;
+
+    }
+
+    .section-3 p{
+       height: auto;
+      
+    }
+
+
+    .section-4 h1{
+      
+    }
+
+
+  }
+
+
+
+
+  @media (max-width:1024px){
+    .section-2{
+      padding-top: 25%;
+    }
+
+    .section-2 h1{
+      width: 40%;
+
+    }
+
+    .section-2 p{
+      height: auto;
+      
+    }
+  }
+  
   
   
 
