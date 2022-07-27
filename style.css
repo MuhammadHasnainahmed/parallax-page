@@ -187,8 +187,8 @@ body {
     }
 
 
-    .section-4 h1{
-      
+    .section-4 {
+      padding-top: 20%;
     }
 
 
@@ -198,7 +198,7 @@ body {
 
 
   @media (max-width:1024px){
-    .section-2{
+    /* .section-2{
       padding-top: 25%;
     }
 
@@ -210,6 +210,14 @@ body {
     .section-2 p{
       height: auto;
       
+    } */
+
+    .section-4 {
+      padding-top: 30%;
+    }
+
+    .section-4 h1{
+      width: auto;
     }
   }
   
